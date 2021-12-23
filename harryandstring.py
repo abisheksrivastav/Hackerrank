@@ -4,7 +4,11 @@
 # All the other spells that do not fall in any of the categories before are categorized as Bad
 
 
+<<<<<<< HEAD
 k = int(input().strip())
+=======
+  k = int(input().strip())
+>>>>>>> 46ca8af5b4f3deb157f23a95b321c7f18f9129f1
 p = "aeiou"
 for _ in range(k):
     s = input().strip()
